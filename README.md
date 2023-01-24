@@ -5,7 +5,14 @@ Mercury Retrograde has recently gain significant mainstream visibility.  Due to 
 ## How To Use
 Our Mercury Retrograde generator is used to give users a place to inform themselves of Mercury's backward spin.  Users can simply **Find Out** with a click of a button.
 
+![SiteView](images/Screen%20Shot%202023-01-21%20at%208.18.49%20PM.png)
+
+![SiteView](images/Screen%20Shot%202023-01-21%20at%208.19.11%20PM.png)
+
+![SiteView](images/Screen%20Shot%202023-01-24%20at%2010.16.25%20AM.png)
 
 
-To Get Started:
+Click Here To Get Started:
+https://tranquil-cendol-b6d583.netlify.app/
+
 
